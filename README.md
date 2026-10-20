@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @alexru298
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm @alexru298
+
+👀 I'm a Senior Health Management Specialist and a vibe coding enthusiast.
+
+🌱 I'm currently learning Python.
+
+💞️ My first project, "起居却老" (Daily Wellness), a WeChat Mini Program, is now live — dedicated to solving everyday problems and making life more convenient through vibe coding.
+
+📫 I'm committed to contributing to the "Healthy China" initiative in my own way.
 
 
 ☕ **Support me on Ko-fi**: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1B129279I)
